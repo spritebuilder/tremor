@@ -28,8 +28,6 @@
 		FC76229F19919EE00001BCF4 /* floor0.c in Sources */ = {isa = PBXBuildFile; fileRef = FC76228019919EE00001BCF4 /* floor0.c */; };
 		FC7622A019919EE00001BCF4 /* floor1.c in Sources */ = {isa = PBXBuildFile; fileRef = FC76228119919EE00001BCF4 /* floor1.c */; };
 		FC7622A119919EE00001BCF4 /* info.c in Sources */ = {isa = PBXBuildFile; fileRef = FC76228219919EE00001BCF4 /* info.c */; };
-		FC7622A219919EE00001BCF4 /* iseeking_example.c in Sources */ = {isa = PBXBuildFile; fileRef = FC76228319919EE00001BCF4 /* iseeking_example.c */; };
-		FC7622A319919EE00001BCF4 /* ivorbisfile_example.c in Sources */ = {isa = PBXBuildFile; fileRef = FC76228419919EE00001BCF4 /* ivorbisfile_example.c */; };
 		FC7622A419919EE00001BCF4 /* mapping0.c in Sources */ = {isa = PBXBuildFile; fileRef = FC76228519919EE00001BCF4 /* mapping0.c */; };
 		FC7622A519919EE00001BCF4 /* mdct.c in Sources */ = {isa = PBXBuildFile; fileRef = FC76228619919EE00001BCF4 /* mdct.c */; };
 		FC7622A619919EE00001BCF4 /* registry.c in Sources */ = {isa = PBXBuildFile; fileRef = FC76228719919EE00001BCF4 /* registry.c */; };
@@ -282,9 +280,7 @@
 				FC7622A019919EE00001BCF4 /* floor1.c in Sources */,
 				FC76229D19919EE00001BCF4 /* block.c in Sources */,
 				FC7622A819919EE00001BCF4 /* sharedbook.c in Sources */,
-				FC7622A319919EE00001BCF4 /* ivorbisfile_example.c in Sources */,
 				FC7622A619919EE00001BCF4 /* registry.c in Sources */,
-				FC7622A219919EE00001BCF4 /* iseeking_example.c in Sources */,
 				FC76229E19919EE00001BCF4 /* codebook.c in Sources */,
 				FC76229F19919EE00001BCF4 /* floor0.c in Sources */,
 				FC7622A719919EE00001BCF4 /* res012.c in Sources */,
